@@ -7,6 +7,7 @@
   <img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
   <img  alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
   <img  alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+  <img  src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 </p>
 
 ## Technologies
@@ -17,7 +18,24 @@
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 </p>
 <p><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg">
+  <img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png">
+  <img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg">
 </p>
+
 
  
 ## Social
@@ -27,6 +45,13 @@
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
   <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
   <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to">
+  <img height="30" src="https://raw.githubusercontent.com/stephenajulu/WaylonWalker/main/icon/dev.png">
+  <img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true">
+  <img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true">
+  <img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true">
+  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
 </p>
 
 
