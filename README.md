@@ -629,6 +629,8 @@ To paste, please press <kbd>CmdOrCtrl</kbd>+<kbd>V</kbd>
 
 Github-Flavored Markdown (GFM) supports also Emojis. :heart_eyes: :smile: :joy:
 
+Check the [Emoji.md](Emoji.md) file for all the supported emojis.
+
 To add an emojis, just surround the emoji name with colons, like this:
 
 ```markdown
